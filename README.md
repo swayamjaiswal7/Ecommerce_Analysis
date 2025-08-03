@@ -2,7 +2,7 @@
  and segment customers into different categories as per their RFM_scores and Conduct an churn analysis to find how many customers can possibly churned
 
 🔍 Data Preparation & Feature Engineering
-Cleaning: You removed duplicates, handled missing values, and standardized date formats.
+Cleaning:Removed duplicates, handled missing values, and standardized date formats.
 
 Features Created:
 
